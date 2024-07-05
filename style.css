@@ -155,12 +155,8 @@ select {
     width: 100%;
 }
 
-#menus p{
-    color:grey;
-    }
-
-#menus p span{
-color: #000;
+#menus p {
+    color: gray;
 }
 
 #menus .items img {
