@@ -1,0 +1,23 @@
+1. Section - Spotlight
+
+   A. section #nav
+	1. div #logo
+
+	2. div ul
+	    (a) li
+	       (i). a
+
+	3. div button
+	    (a) button - signin
+	    (b) button - signup
+
+   B. section #content
+	4. section #left
+	    (a) H1 tag
+	    (b) P tag
+	    (c) div tag
+		i) Button1
+		ii) Button2
+
+	5. section #right
+	    (a) img tag - image
